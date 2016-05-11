@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "TDTest"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "jeg1972",
+    "repo": "AWSEC2Snapshotter",
+    "branch": "master",
+    "model": "TDTest"
+  }
+}
